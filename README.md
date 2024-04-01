@@ -1,5 +1,22 @@
 # TimeSheets-Threat-Model
-Udacity Security Engineer Project 1
+<h3>Udacity Security Engineer Project 1</h3>
+<p>
+  <h3>Outcomes:</h3>
+  <ul>
+    <li>
+    Threat Model Review and complete a Threat Assessment.
+    </li>
+    <li>
+Analysis of Vulnerabilities and analyze the partially completed threat report.
+    </li>
+    <li>
+Risk Analysis and Create Mitigation Plan.
+          </li>
+    <li>
+come up with recommendations for the audit team.
+          </li>
+  </ul>
+</p>
 
 <h2>Scenario</h2>
 
